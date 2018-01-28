@@ -11,6 +11,20 @@
     "eslint-plugin-import": "^2.8.0"
   },
   "dependencies": {
-    "express": "^4.16.2"
-  }
+    "express": "^4.16.2",
+    "lint": "^1.1.2",
+    "markdown-it": "^8.4.0"
+  },
+  "description": "Útfæra skal Express vefþjón sem birtir yfirlit yfir greinar úr möppu á disk og möguleika á að lesa hverja grein.",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alli959/vef2_verk2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alli959/vef2_verk2/issues"
+  },
+  "homepage": "https://github.com/alli959/vef2_verk2#readme"
 }

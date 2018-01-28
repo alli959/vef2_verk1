@@ -5,7 +5,7 @@
 ## Greinar
 
 Gefin er mappa með fjórum greinum ásamt myndum sem þær vísa í. Hver grein hefur skilgreind lýsigögn fremst í skjali skilgreint með _frontmatter_, t.d.
-a
+
 
 ```
 ---
